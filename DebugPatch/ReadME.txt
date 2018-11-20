@@ -1,0 +1,1 @@
+F1 - Activate debug windows
