@@ -1,1 +1,2 @@
-F1 - Activate debug windows
+console - Num0
+memory - Num1
